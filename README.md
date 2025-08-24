@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gabriele and i'm 32 years old. After several jobs and many disappointments, I decided to exploit the passion I have for information technology to do a job that I like. So in 2022 I attended a course to qualify as a Full stack Web Developer. I'm currently specializing in skills in the field of cyber security, also because it's an important but little concrete topic.
+My name is Gabriele and i'm 33 years old. After several jobs and many disappointments, I decided to exploit the passion I have for information technology to do a job that I like. So in 2022 I attended a course to qualify as a Full stack Web Developer. I'm currently specializing in skills in the field of cyber security, also because it's an important but little concrete topic.
 
 <div align=center>
 <h2> Skill's </h2>
